@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV of Quan Guo"
+title: "Curriculum Vitae of Quan Guo"
 permalink: /cv/
 author_profile: true
 redirect_from:
