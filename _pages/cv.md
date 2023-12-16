@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV of Quan Guo"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -47,7 +47,7 @@ Skills
 * Data Analysis: R, MySQL, Numpy, Pandas
 * ML/DL/AI: CUDA, Pytorch, Tensorflow, Scikit-learn, Comet-ML
 * CI/CD: Git, Docker, Azure DevOps, Google Container Registry, Bitbucket, Gitlab
-
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -64,7 +64,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
