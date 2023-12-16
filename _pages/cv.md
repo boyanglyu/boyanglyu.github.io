@@ -47,24 +47,6 @@ Skills
 * Data Analysis: R, MySQL, Numpy, Pandas
 * ML/DL/AI: CUDA, Pytorch, Tensorflow, Scikit-learn, Comet-ML
 * CI/CD: Git, Docker, Azure DevOps, Google Container Registry, Bitbucket, Gitlab
-<!-- 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 Service and leadership
 ======
