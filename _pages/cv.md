@@ -16,6 +16,17 @@ Education
 * M.S. in Environmental Engineering, Georgia Institute of Technology, 2017 – 2018 
 * Ph.D in Water Resource Engineering, Georgia Institute of Technology, 2019 – Now
 
+Teaching
+======
+* Georgia Tech CSE 6250 Big Data for Healthcare
+  * Since 2020
+  * Head TA
+
+* Georgia Tech CEE 4200 Hydraulic Engineering
+  * Spring 2019, Spring 2020
+  * Lab Instructor
+  <!-- * Supervisor: Dr. Jeff Miles-->
+
 Work experience
 ======
 * Summer 2023: Machine Learning Research Intern
