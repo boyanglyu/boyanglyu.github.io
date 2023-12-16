@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Ecology, Xiamen University, 2012 - 2016
+* M.S. in Environmental Engineering, Georgia Institute of Technology, 2016 – 2017
+* M.S. in Environmental Engineering, Georgia Institute of Technology, 2017 – 2018 
+* Ph.D in Water Resource Engineering, Georgia Institute of Technology, 2019 – Now
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Machine Learning Research Intern
+  * Schlumberger-Doll Research, Cambridge, MA
+  * Duties included: find end-to-end AI solution for carbon capture and sequestration in 3D subsurface environment.
+  <!-- * Supervisor: Dr. Jeff Miles-->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Machine Learning Engineer
+  * Ping An Insurance Co. Beijing, China 
+  * Duties included: implement machine learning models for disease prediction.
+  <!-- * Supervisor: Dr. Jeff Miles-->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, Java, C/C++, MATLAB
+* Big Data: PySpark, Hadoop, Scala, Hive, Pig, Hbase
+* Cloud Computing: AWS, Azure, Google Cloud Platform, LAMBDA
+* Data Analysis: R, MySQL, Numpy, Pandas
+* ML/DL/AI: CUDA, Pytorch, Tensorflow, Scikit-learn, Comet-ML
+* CI/CD: Git, Docker, Azure DevOps, Google Container Registry, Bitbucket, Gitlab
 
 Publications
 ======
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently served as reviewer for Water Resources Research, Journal of Hydrology, etc.
