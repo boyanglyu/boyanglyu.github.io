@@ -39,4 +39,5 @@ In: Water Resources Research, 58(7), doi: [https://doi.org/10.1029/2022WR03261
 
 **Multiphysics modeling investigation of wellbore storage effect and non-Darcy flow**         
 He, Y., <ins>Guo, Q.</ins>, Liu, Y., Huang, H., Hou, D., & Luo, J.       
-[under review]     
+In: Water Resources Research, 60, doi: [https://doi.org/10.1029/2022WR032610](https://doi.org/10.1029/2023WR035453). 
+[[paper]](http://quanguo.github.io/files/multiphysics.pdf) [[data]](https://doi.org/10.5281/zenodo.8217685)
