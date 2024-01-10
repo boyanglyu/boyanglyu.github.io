@@ -10,7 +10,7 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 **Predictive Deep Learning for High-Dimensional Inverse Modeling of Hydraulic Tomography in Gaussian and Non-Gaussian Fields**       
 <ins>Guo, Q.</ins>, Liu, M., & Luo, J. (2023)       
-In: Water Resources Research,, 59(10), doi: [https://doi.org/10.1029/2023WR035408](https://doi.org/10.1029/2023WR035408).          
+In: Water Resources Research,, 59, doi: [https://doi.org/10.1029/2023WR035408](https://doi.org/10.1029/2023WR035408).          
 [[paper]](http://quanguo.github.io/files/GAN+DNN.pdf) [[code]](https://github.com/QuanGuo/HT-INV-NN)       
 
 **High-dimensional inverse modeling of hydraulic tomography by physics informed neural network (HT-PINN)**       
@@ -30,7 +30,7 @@ In: National Environmental Conference for Doctoral Students, Beijing, China, Jan
 
 **High‐dimensional groundwater flow inverse modeling by upscaled effective model on principal components**       
 Zhao, Y., <ins>Guo, Q.</ins>, Lu, C., & Luo, J. (2022). 
-In: Water Resources Research, 58(7), doi: [https://doi.org/10.1029/2022WR032610](https://doi.org/10.1029/2022WR032610). 
+In: Water Resources Research, 58, doi: [https://doi.org/10.1029/2022WR032610](https://doi.org/10.1029/2022WR032610). 
 [[paper]](http://quanguo.github.io/files/UPCIA.pdf) [[code]](https://github.com/yuezhao001/upscaled_effective_model)  
 
 **Fourier neural operator for deep learning surrogate model of subsurface flow**            
@@ -38,6 +38,6 @@ In: Water Resources Research, 58(7), doi: [https://doi.org/10.1029/2022WR03261
 [under review]  
 
 **Multiphysics modeling investigation of wellbore storage effect and non-Darcy flow**         
-He, Y., <ins>Guo, Q.</ins>, Liu, Y., Huang, H., Hou, D., & Luo, J.       
+He, Y., <ins>Guo, Q.</ins>, Liu, Y., Huang, H., Hou, D., & Luo, J. (2024).       
 In: Water Resources Research, 60, doi: [https://doi.org/10.1029/2022WR032610](https://doi.org/10.1029/2023WR035453). 
 [[paper]](http://quanguo.github.io/files/multiphysics.pdf) [[data]](https://doi.org/10.5281/zenodo.8217685)
