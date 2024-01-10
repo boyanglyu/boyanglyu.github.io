@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+You can download my CV [here](http://quanguo.github.io/files/Quan_Guo_CV.pdf)
 
 Education
 ======

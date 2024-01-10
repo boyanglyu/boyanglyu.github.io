@@ -10,13 +10,18 @@ redirect_from:
 
 About me:
 ======
-I am a Ph.D. Candidate in [Water Resource Engineering](https://ce.gatech.edu/academics/groups/water) at Georgia Institute of Technology [(Georgia Tech)](https://www.gatech.edu/) , advised by [Prof. Jian Luo](https://ce.gatech.edu/directory/person/jian-luo). Before starting my Ph.D., I already earned two MS degrees of [Environmental Engineering](https://ce.gatech.edu/academics/groups/environmental) and [Computational Science & Engineering](https://cse.gatech.edu/) from Georgia Tech.
+I am a Ph.D. Candidate in [Water Resource Engineering](https://ce.gatech.edu/academics/groups/water) at [Georgia Institute of Technology](https://www.gatech.edu/) (Georgia Tech) , advised by [Prof. Jian Luo](https://ce.gatech.edu/directory/person/jian-luo). Before starting my Ph.D., I already earned two MS degrees of [Environmental Engineering](https://ce.gatech.edu/academics/groups/environmental) and [Computational Science & Engineering](https://cse.gatech.edu/) from Georgia Tech.
 
 ### What kind of person I am:
 
 *	Passionate cross-disciplinary researcher in Data Science and Computer Engineering, dedicated to utilizing AI and machine learning to solve scientific problems and construct digital twins.
 *	Over 5 years of experience in Python, proficient in writing clear and well-organized code, and deeply committed to continuous learning as the need arises.
 *	Navigating the data science realm with using two key pillars: statistical analysis and guided background knowledge. Combining science and AI to make robust and accurate predictions from data.
+
+### Don't hesitate to contact me:
+
+*	Email: qguo48@gatech.edu
+*	Office: Jesse W. Mason Building, Room 2230, 790 Atlantic Dr NW, Atlanta, GA 30332.
 
 Research interests:
 ======
