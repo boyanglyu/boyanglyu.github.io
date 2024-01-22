@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quan Guo"
+title                    : "Boyang Lyu"
 title_separator          : "-"
-name                     : &name "Quan Guo"
+name                     : &name "Boyang Lyu"
 description              : &description "personal description"
 url                      : https://quanguo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Quan Guo"
-  avatar           : "Facetune_06-11-2023-14-30-29.png"
-  bio              : "PhD Candidate at Georgia Tech"
-  location         : "Atlanta, GA"
+  name             : "Boyang Lyu"
+  avatar           : "IMG_6672.JPG"
+  bio              : "PhD from Tufts University"
+  location         : "Medford, MA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=n2szrYAAAAAJ&hl=en"
-  email            : "qguo48@gatech.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=n8U_VQkAAAAJ&hl=en"
+  email            : "lucylyuboyang@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "GQSavannah"
+  facebook         : # ""
   foursquare       :
-  github           : "QuanGuo"
+  github           : "boyanglyu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "quan-guo/"
-  orcid            : "https://orcid.org/0000-0002-0410-5999"
+  linkedin         : "boyang-lyu-engineering/"
+  orcid            : "https://orcid.org/0000-0003-3295-0652"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "gqsavannah70351"
+  twitter          : # "gqsavannah70351"
   vine             :
   weibo            :
   xing             :
